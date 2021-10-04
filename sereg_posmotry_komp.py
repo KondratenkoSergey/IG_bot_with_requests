@@ -3,7 +3,7 @@
 
 from instabot import InstaBot
 
-bot = InstaBot(login="belovod.off", password="zxckondratzxc123!?",
+bot = InstaBot(login="sereg_posmotri_komp", password="zxckondratzxc123!?",
                like_per_day=1500,  # Лайков каждый день
                comments_per_day=90,   # Коментов каждый лень
                tag_list=['awesome', 'amazing','бомба','boombs', 'Закат','супер'], # По тегам
